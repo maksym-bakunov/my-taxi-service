@@ -4,7 +4,7 @@
   <a href="#description">Description</a> •
   <a href="#structure">Structure</a> •
   <a href="#used-technologies">Used technologies</a> •
-  <a href="#how-to-use">How To Use</a> •
+  <a href="#how-to-use">How To Use</a>
 </p>
 
 ## Description
