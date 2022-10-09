@@ -11,7 +11,7 @@
 
 This simple web application allows users to log in and log out. After authentication, the user can:
 - add/update/delete information about cars, drivers and manufacturers.
-- displaying a list of cars, drivers and manufacturers.
+- display a list of cars, drivers and manufacturers.
 
 ## Structure
 #### This web application structure is N-tier architecture model that including the following layers:
