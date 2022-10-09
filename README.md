@@ -21,14 +21,14 @@ This simple web application allows users to log in and log out. After authentica
 
 ## Used technologies
 
-- Java 11
-- Servlet
+- JDK 11
+- Java Servlet API 4.0.1
 - JSP
-- JSTL
-- MySQL
+- JSTL 1.2
+- MySQL 8.0
 - JDBC
-- Apache Tomcat
-- Maven
+- Apache Tomcat 9.0.50
+- Apache Maven 3.8.11
 
 ## How To Use
 
